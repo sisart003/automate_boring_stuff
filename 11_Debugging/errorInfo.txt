@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "C:\Users\Tess\Desktop\jsjsjs\auto_py\11_Debugging\sample.py", line 41, in <module>
+    raise Exception('This is the error message.')
+Exception: This is the error message.
